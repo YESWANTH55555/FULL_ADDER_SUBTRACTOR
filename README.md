@@ -78,9 +78,12 @@ Borrow out = A'Bin + A'B + BBin
 ![Screenshot 2024-12-20 142421](https://github.com/user-attachments/assets/57058039-ee8e-41aa-ba8b-47513716b01a)
 
 ### OUTPUT TIMING WAVEFORM :
-Full adder
+Full Adder
+
 ![Screenshot 2024-12-20 142428](https://github.com/user-attachments/assets/f3211dda-8f95-48eb-b968-af0e58b2249e)
+
 Full Substractor
+
 ![Screenshot 2024-12-20 142437](https://github.com/user-attachments/assets/d078f765-a2ec-41d4-abdd-b49d820b8e70)
 
 ### RESULT :
