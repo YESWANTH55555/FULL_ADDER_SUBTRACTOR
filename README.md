@@ -1,6 +1,6 @@
 ### Name : YESWANTH PEDDEPI
 ### REG NO : 24010970
-### EXP NO 3 : FULL_ADDER_SUBTRACTOR
+### EXP NO 4 : FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
