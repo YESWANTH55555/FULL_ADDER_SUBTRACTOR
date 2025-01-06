@@ -77,8 +77,9 @@ Full Adder
 ![Screenshot 2024-12-20 142428](https://github.com/user-attachments/assets/f3211dda-8f95-48eb-b968-af0e58b2249e)
 
 Full Substractor
+![Screenshot_20250106-160825 Chrome](https://github.com/user-attachments/assets/c4f16da2-bba5-41f0-af77-4734e700f734)
 
-![Screenshot 2024-12-20 142437](https://github.com/user-attachments/assets/d078f765-a2ec-41d4-abdd-b49d820b8e70)
+
 
 ### RESULT :
 
