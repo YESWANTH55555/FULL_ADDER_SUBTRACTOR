@@ -61,15 +61,11 @@ Borrow out = A'Bin + A'B + BBin
  the design similarly to the full adder.
 
 ### PROGRAM :
-### Full Adder
- module fulladd_top(a,b,cin,sum,carry); input a,b,cin; output sum,carry; wire w1,w2,w3,w4;
- xor(w1,a,b); xor(sum,w1,cin);
- and(w2,a,b); and(w3,b,cin); and(w4,cin,a);
- or(carry,w2,w3,w4); endmodule
-### Full Subtractor
+
+![DE exp 4 program](https://github.com/user-attachments/assets/eed928f9-d48f-4b78-a191-1b4f4f26ab6c)
+
  
- module fullsub_top(a,b,Bin,BO,DIFF); input a,b,Bin; output BO,DIFF; assign DIFF = a ^ b ^ Bin; assign BO = (a
- & b) | ((a ^ b) & Bin); endmodule
+
 
 
 ### RTL SCHEMATIC :
